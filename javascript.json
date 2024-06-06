@@ -23,7 +23,7 @@
 			"}",
 			"",
 			"export const ${1:template}Slice = createSlice({",
-			"	name: 'counter',",
+			"	name: '${1:template}',",
 			"	initialState,",
 			"	reducers: {",
 			"		${2:reducerType}: (state, action) => {",
