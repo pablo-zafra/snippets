@@ -33,7 +33,7 @@
 			"});",
 			"",
 			"// Action creators are generated for each case reducer function",
-			"export const { ${2:reducerType} } = ${1:template}Slice.actions",
+			"export const { ${2:reducerType} } = ${1:template}Slice.actions;",
 
 
 		],
